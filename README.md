@@ -1,2 +1,6 @@
 # Heart-Disease-Detection-Classification-Model
 Heart Disease Detection Using Machine Learning Classification Algorithms in Python
+
+As heart disease is the leading cause of death in the United States, the aim of this project to predict whether a person will develop heart disease, which is of paramount importance. Rather than relying on physiological data, such as the results of a stress test or electrocardiogram readings, this model will be trained on self-reported medical histories and demographic information, including BMI and race. My objective is to develop a classification model that can predict a person's risk of developing heart disease without the need for specific heart disease tests. I plan to employ various machine learning algorithms, such as K-Nearest Neighbor and Naïve Bayes algorithms, to determine which one works best.
+
+By creating an accurate classification model and making it widely accessible, we can raise awareness among individuals about their risk of developing or having heart disease before receiving a formal diagnosis. This early awareness can prompt patients to seek medical evaluation and treatment from a physician. Having such a tool at our disposal has the potential to prevent thousands of deaths by increasing people's awareness of potential health risks.
